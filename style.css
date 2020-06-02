@@ -1,0 +1,14 @@
+body {
+  font-family: system-ui;
+  background: black;
+  color: white;
+  text-align: center;
+}
+li
+{
+  text-align:left;
+}
+p
+{
+  font-style:italic;
+}
